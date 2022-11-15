@@ -1,11 +1,11 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : "ABOUT ME"
+image : "images/backgrounds/kevin.png"
 # button
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "images/portfolio/Resume.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -58,4 +58,14 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+<!-- It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊 -->
+
+I grew up in Queens, New York as a 2nd generation Korean American and became a 1st generation college student with a avid passion for business, as my Mom’s small business grew from 1 employee to 65+ employees over the course of 10+ years.
+
+As an enthusiastic learner, I engaged with my Mom’s business and a liberal arts business & computer science (Cmpsci) education. I explored philosophy and communications alongside my quantitative finance, economics, business, math, and computer science classes.
+
+I got to explore different careers, through Allegheny College, and I interned with the IRS and Barclays. Both experiences provided me with great learning opportunities and social environments, as I was tasked with a lot of financial projects and engagement with external/ internal clients.
+
+Through Barclays I obtained mentors who revealed the various career paths within finance. I quickly got to work in the fall, as a senior, and obtained two remote internships with one being in private equity and the other with venture capital. I leveraged these internships to gain valuable valuation and financial modeling experiences while also being exposed to external client management.
+
+In my spare time, I have an avid passion for volunteering and have traveled to multiple underserved rural cities within countries such as Nicaragua, Panama, Bolivia, Dominican Republic, Paraguay, and etc. to do community service. I also love the outdoors, poker, and spending time with friends/ family.

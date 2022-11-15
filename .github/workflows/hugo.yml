@@ -23,7 +23,7 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Build with hugo
         run: |
-          apt-get install hugo
+          sudo apt-get install hugo
           hugo
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1.0.4

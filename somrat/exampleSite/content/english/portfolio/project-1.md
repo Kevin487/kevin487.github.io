@@ -1,17 +1,17 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Confi Gator"
+date: 2022-02-09T12:14:34+06:00
+categories: ["ConfiGator is a tool to be used in hand with GatorGradle to generate configuration files for assignments that require GatorGradle. ConfiGator uses Poetry for package and dependency management."]
 image: "images/portfolio/item1.jpg"
-categories: ["design","development"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Client"
+- name: "Lorem ipsum dolor sit amet"
   icon: "fas fa-user"
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://github.com/Kevin487/ConfiGator"
 - name: "New Item"
   icon: "fas fa-globe"
   content: "Add whatever you want"

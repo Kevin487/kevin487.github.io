@@ -1,8 +1,8 @@
 ---
-title : "NEED A SERVICE?"
-bg_image : "images/backgrounds/need-service.jpg"
+title : " <br> <br>"
+bg_image : "images/backgrounds/wall.png"
 button:
-  enable : true
+  enable : false
   label : "SAY HELLO!"
   link : "#contact"
 

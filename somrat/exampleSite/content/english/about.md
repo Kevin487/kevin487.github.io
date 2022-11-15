@@ -13,44 +13,72 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Private Equity Analyst Intern"
+      company : "Jodabit Partners | Sept 2022 - Present"
+      content : "▪ Investigated valuation methodologies through leveraged buyout, precedent transactions, and trading
+comparable analysis; practiced completing financial statement modeling and leveraged buyout modeling <br>
+▪ Performed industry research and due diligence on firm’s acquisition targets; generated investment memos
+advising business evaluations based on strategic assessment of the industry, business, and overall market <br>
+▪ Reviewed and analyzed NDAs, CIMs, financial statements, and LBO financial models; forecasting future projections of potential long-term investing opportunities of multiple companies for senior management"
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Venture Capital Associate Intern"
+      company : "Caterpillar Labs"
+      duration : "Sept 2022 - Present"
+      content : "▪ Built a database of 500+ high growth start-ups in the blockchain and cryptocurrency technology industry; leveraged database to cold contact and interview companies for potential venture capital funding"
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Financial Accounting and Generalist Economics Tutor"
+      company : "Allegheny College"
+      duration : "Sept 2022 - Present"
+      content : "▪ Selected to assist professors by tutoring students in financial accounting and all economics course subjects"
+
+    - name : "Internal Audit Summer Analyst"
+      company : "Barclays"
+      duration : "Jun 2022 - Aug 2022"
+      content : "▪ Audited Barclays’ U.S. branches through scientific methodology and interviewed stakeholders; inspected various business models to improve operations and satisfy management’s key objectives and risk appetite <br>
+▪ Drafted the global compliance monthly update report for July 2022 and August 2022, which are used to
+update the annual report for financial conduct risks regarding markets, technology, and regulatory laws"  
+      
+    - name : "Volunteer Income Tax Assistance"
+      company : "Internal Revenue Service"
+      duration : "Jan 2022 - May 2022"
+      content : "▪ Curated client's income taxes by reviewing their tax forms resulting in 100+ IRS approved tax returns <br> ▪ Restructured the team's work with understanding clients' various tax forms; underwent a thorough quality review process which ultimately verified the accuracy as well as the legality of submissions <br> ▪ Passed the VITA/TCE advanced exam to represent a legal IRS VITA/TCE volunteer; prepared 100+ free tax returns on behalf of the clients, generating a cumulative $16K+ in savings for the underprivileged  "   
 
 ############################### Skill #################################
+
+
+
+education:
+  enable : true
+  title : "EDUCATION"
+  education_list:
+    - name: "Allegheny College"
+      percentage: "90%"
+
 skill:
   enable : true
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
+    - name : "Financial Statement Modeling"
+      percentage : "90%"
+
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Valuation Modeling"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Financial Accounting"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
+    - name : "Industry Research"
+      percentage : "90%"
+ 
+    # skill item loop
+    - name : "Teamwork"
+      percentage : "85%"  
 
 # custom style
 custom_class: "" 

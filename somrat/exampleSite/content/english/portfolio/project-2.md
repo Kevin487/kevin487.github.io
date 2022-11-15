@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Decryptor Project"
+date: 2020-12-12T12:14:34+06:00
+categories: ["Students are invited to pick one of the following projects. Please note that a student or a team selecting the student-designed project must first discuss the idea with the course instructions."]
 image: "images/portfolio/item2.jpg"
-categories: ["design","development"]
 description: "This is meta description."
 draft: false
 project_info:

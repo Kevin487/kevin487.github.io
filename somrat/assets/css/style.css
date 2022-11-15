@@ -241,6 +241,7 @@ body {
   opacity: 0;
   cursor: pointer;
   transition: all 0.5s;
+  display: none;
 }
 
 .slider-prev-button {
@@ -680,7 +681,7 @@ input:checked+label span:last-child {
   align-items: center;
   -webkit-box-pack: start;
   -ms-flex-pack: start;
-  justify-content: flex-start;
+  justify-content: space-between;
 }
 
 .menu-item a {
@@ -1058,6 +1059,18 @@ ul.experience-chart h4 {
   -webkit-border-radius: 22px;
 }
 
+/* ========= Certificates ======= */
+.certificates {
+  display: flex;
+  flex-direction: column;
+}
+
+.certificates img {
+  flex: 1;
+  /* height: 100px; */
+  margin: 10px;
+}
+
 /*--------------------------------
    End About Me
 ----------------------------------*/
@@ -1325,15 +1338,20 @@ ul.experience-chart h4 {
   overflow: hidden;
 }
 
+.item-holder img {
+  height: 300px;
+  object-fit: contain;
+}
+
 .item-caption {
   position: absolute;
   top: 24px;
   bottom: 0;
   left: 0;
-  width: 150px;
+  width: 200px;
   background: #313131;
-  -webkit-transform: translateX(-150px);
-  transform: translateX(-150px);
+  -webkit-transform: translateX(-200px);
+  transform: translateX(-200px);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -1349,6 +1367,7 @@ ul.experience-chart h4 {
   padding-left: 16px;
   font-family: 'Rubik', sans-serif;
   font-weight: 500;
+  font-size: small;
 }
 
 .item-created {

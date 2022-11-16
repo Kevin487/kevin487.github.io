@@ -1,23 +1,15 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Decryptor Project"
+date: 2020-12-12T12:14:34+06:00
+categories: ["Students are invited to pick one of the following projects. Please note that a student or a team selecting the student-designed project must first discuss the idea with the course instructions."]
 image: "images/portfolio/item3.jpg"
-categories: ["database"]
-description: "This is meta description."
+description: "https://github.com/Kevin487/Decryptor-Project"
 draft: false
 project_info:
-- name: "Client"
-  icon: "fas fa-user"
-  content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://github.com/Kevin487/Decryptor-Project"
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

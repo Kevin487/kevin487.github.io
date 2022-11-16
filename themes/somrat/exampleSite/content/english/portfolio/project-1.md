@@ -3,21 +3,12 @@ title: "Confi Gator"
 date: 2022-02-09T12:14:34+06:00
 categories: ["ConfiGator is a tool to be used in hand with GatorGradle to generate configuration files for assignments that require GatorGradle. ConfiGator uses Poetry for package and dependency management."]
 image: "images/portfolio/item1.jpg"
-description: "This is meta description."
+description: "https://github.com/Kevin487/ConfiGator"
 draft: false
 project_info:
-- name: "Lorem ipsum dolor sit amet"
-  icon: "fas fa-user"
-  content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
   content: "https://github.com/Kevin487/ConfiGator"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

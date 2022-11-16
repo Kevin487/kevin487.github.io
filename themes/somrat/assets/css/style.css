@@ -1063,6 +1063,7 @@ ul.experience-chart h4 {
 .certificates {
   display: flex;
   flex-direction: column;
+  /* flex-wrap: wrap; */
 }
 
 .certificates img {
@@ -1340,7 +1341,7 @@ ul.experience-chart h4 {
 
 .item-holder img {
   height: 300px;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .item-caption {

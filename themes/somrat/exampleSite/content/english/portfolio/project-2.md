@@ -1,14 +1,14 @@
 ---
 title: "M&A Investment Guidance"
-date: 2020-12-12T12:14:34+06:00
+date: 2022-09-11T12:14:34+06:00
 categories: ["Investment guidance via DCF modeling, industry research, and PowerPoint"]
 image: "images/portfolio/item2.jpg"
-description: "https://drive.google.com/file/d/16KKhLgjDRnlj1OmXVp2oK5t0D4fpRR_6/view?usp=share_link"
+description: "https://drive.google.com/file/d/13pX-21jENxeSLNrUkvBlobFnELZhtaVT/view?usp=sharing"
 draft: false
 project_info:
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://drive.google.com/file/d/16KKhLgjDRnlj1OmXVp2oK5t0D4fpRR_6/view?usp=share_link"
+  content: "https://drive.google.com/file/d/13pX-21jENxeSLNrUkvBlobFnELZhtaVT/view?usp=sharing"
 
 ---
 

@@ -58,11 +58,11 @@ education:
 
 skill:
   enable : true
-  title : "SKILL"
+  title : "SKILLS"
   skill_list:
     # skill item loop
     - name : "Financial Statement Modeling"
-      percentage : "90%"
+      percentage : "80%"
 
     # skill item loop
     - name : "Valuation Modeling"
@@ -70,7 +70,7 @@ skill:
       
     # skill item loop
     - name : "Financial Accounting"
-      percentage : "90%"
+      percentage : "85%"
       
     # skill item loop
     - name : "Industry Research"
@@ -78,7 +78,7 @@ skill:
  
     # skill item loop
     - name : "Teamwork"
-      percentage : "85%"  
+      percentage : "90%"  
 
 # custom style
 custom_class: "" 

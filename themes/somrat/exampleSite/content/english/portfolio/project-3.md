@@ -1,14 +1,14 @@
 ---
-title: "Decryptor Project"
-date: 2020-12-12T12:14:34+06:00
-categories: ["Students are invited to pick one of the following projects. Please note that a student or a team selecting the student-designed project must first discuss the idea with the course instructions."]
+title: "Business Literacy"
+date: 2022-05-05T12:14:34+06:00
+categories: ["Apple Watch Marketing Analysis"]
 image: "images/portfolio/item3.jpg"
-description: "https://github.com/Kevin487/Decryptor-Project"
+description: "https://drive.google.com/file/d/1LgdJ-3VYaumotkx9sVfwnr-uqMFM8LjQ/view?usp=sharing"
 draft: false
 project_info:
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://github.com/Kevin487/Decryptor-Project"
+  content: "https://drive.google.com/file/d/1LgdJ-3VYaumotkx9sVfwnr-uqMFM8LjQ/view?usp=sharing"
 
 ---
 

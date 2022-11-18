@@ -1,23 +1,15 @@
 ---
-title: "Decryptor Project"
-date: 2020-12-12T12:14:34+06:00
-categories: ["Students are invited to pick one of the following projects. Please note that a student or a team selecting the student-designed project must first discuss the idea with the course instructions."]
+title: "M&A Investment Guidance"
+date: 2022-09-11T12:14:34+06:00
+categories: ["Investment guidance via DCF modeling, industry research, and PowerPoint"]
 image: "images/portfolio/item2.jpg"
-description: "This is meta description."
+description: "https://drive.google.com/file/d/13pX-21jENxeSLNrUkvBlobFnELZhtaVT/view?usp=sharing"
 draft: false
 project_info:
-- name: "Client"
-  icon: "fas fa-user"
-  content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://drive.google.com/file/d/13pX-21jENxeSLNrUkvBlobFnELZhtaVT/view?usp=sharing"
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

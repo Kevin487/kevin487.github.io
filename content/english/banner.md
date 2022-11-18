@@ -6,9 +6,9 @@ last_name : "LEE"
 bg_image : "images/backgrounds/kev.jpg"
 # animated text loop
 occupations:
-- "Aspiring Investment Banker"
-- "Student Investment Fund Manager"
-- "First Generation College Student"
+- "Studying Business and Computer Science"
+- "I love sports"
+- "Dog Dad"
 
 # slider background image loop
 slider_images:
